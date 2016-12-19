@@ -301,3 +301,20 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# ============================= Crestron Specific =============================
+
+controlsystem.cfg
+*.projectinfo
+
+#SIMPL
+SPlsWork/
+*.ush
+*.lpz
+*.lpz.hash
+*.sig
+*.sm2
+*.smw.ASV
+*_compiled.zip
+*.sgd2
+*.cfg
