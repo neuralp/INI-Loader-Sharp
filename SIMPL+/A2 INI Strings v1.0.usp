@@ -66,7 +66,7 @@ section : the header to look for in this module instance; e.g. [section1]
   Include Libraries
   (Uncomment and include additional libraries as needed)
 *******************************************************************************************/
-//#INCLUDEPATH "C:\Working Directory\A2 Crestron Sharp\INI Loader v1.0\INI Loader v1.0\bin"
+
 #USER_SIMPLSHARP_LIBRARY "INI_Loader_v10"
 
 /*******************************************************************************************
